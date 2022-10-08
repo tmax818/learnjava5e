@@ -10,7 +10,7 @@ public class HelloJava {
         JFrame frame = new JFrame( "Hello, Java!" );
         JLabel label = new JLabel("Hello, Java!", JLabel.CENTER );
         frame.add(label);
-        frame.setSize( 300, 300 );
+        frame.setSize( 600, 600 );
         frame.setVisible( true );
     }
 }
